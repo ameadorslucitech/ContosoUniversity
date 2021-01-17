@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,38 +15603,38 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
