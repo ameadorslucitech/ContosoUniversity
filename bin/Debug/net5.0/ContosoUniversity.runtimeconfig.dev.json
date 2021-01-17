@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\valia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\valia\\.nuget\\packages"
+    ]
+  }
+}

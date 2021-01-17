@@ -15603,8 +15603,18 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+      "TargetPath": "Pages\\Students\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15633,8 +15643,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+      "TargetPath": "Pages\\Students\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
