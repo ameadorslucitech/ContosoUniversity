@@ -15608,6 +15608,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\valia\\Documents\\ICStars\\NSC47\\ContosoUniversity\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
